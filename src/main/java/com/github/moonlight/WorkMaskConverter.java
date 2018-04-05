@@ -13,7 +13,7 @@ import java.lang.reflect.Modifier;
 /**
  * word mask converter
  *
- * @author zhaozheng<zhaozheng.zhao @ bytedance.com>
+ * @author zhaozheng<zhaozheng90@ 163.com>
  * @Date 04/05/2018
  **/
 @Slf4j
